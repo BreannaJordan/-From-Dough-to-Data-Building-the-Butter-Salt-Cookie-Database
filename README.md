@@ -5,11 +5,28 @@
 The Butter & Salt Database Capstone Project is a real-world database system created for my home-based cookie business, using fully anonymized and simulated data for privacy. Developed for the APCV 498 Senior Capstone course, this project demonstrates an end-to-end design of a functional relational database—from schema creation to data population to analytical SQL queries. Its purpose is to show how small businesses can use structured data to understand performance, track orders and customers, and make informed operational decisions. The primary audience for this project is my professor and classmates reviewing database design and implementation.
 
 ## 2. What’s Included in This Project
-- SQL files that create the tables and add sample data  
-- A schema diagram (picture of the database structure)  
-- A research poster with visuals  
-- Sample data created using Mockaroo  
-- My written capstone report  
+###SQL Folder
+Contains all SQL scripts used to build and analyze the database.
+Database creation scripts – Creates the Butter & Salt database environment.
+Table creation & normalization scripts – Defines all 3NF-normalized tables (customers, orders, cookies, ingredients, etc.).
+Data import scripts – SQL INSERT queries used to populate each table with mock data.
+Business insight queries – Analytical SQL queries that pull meaningful insights (e.g., sales trends, repeat customers, revenue patterns).
+###CSV Folder
+Includes all mock data files used to populate the database:
+CSV files for each table – Contains simulated data for customers, orders, cookies, ingredients, inventory, and other business entities.
+These files allow the database to be populated quickly without manual entry.
+###Images Folder
+Contains visual and presentation assets:
+Project poster – High-level visual summary of the capstone project.
+Schema diagram – Visual layout of tables and relationships.
+ERD diagram – Entity–Relationship Diagram showing the full structure.
+Data visualizations – Graphs and charts generated from SQL business insight queries (e.g., sales trends, customer patterns).
+###Query Results Folder
+Stores output files created by running analytical queries:
+Monthly sales revenue results
+Repeat customer analysis
+Other query output files or screenshots
+These demonstrate how the database answers real business questions.
 
 ## 3. Overview of the Database
 - The database has 7 tables  
@@ -18,12 +35,11 @@ The Butter & Salt Database Capstone Project is a real-world database system crea
 - It allows reporting on sales, trends, and customer patterns  
 
 ## 4. How to Use This Project
-1. Open MySQL Workbench  
-2. Create a new schema  
-3. Run the CREATE TABLE scripts  
-4. Import the sample data  
-5. Run the stored procedures to get reports  
-   (like monthly sales or popular cookies)
+1. Open MySQL Workbench.
+2. Run the schema file located in /SQL (01_schema.sql).
+3. Run the data insertion file (02_insert_data.sql).
+4. Execute the stored procedures and example queries in /SQL or /Query Results.
+
 
 ## 5. What This Project Can Do
 - Shows most popular cookies  
