@@ -57,15 +57,18 @@ The database allows the business to track customer behavior, analyze sales patte
 - Shows most popular cookies  
 - Shows low-sales months  
 - Tracks customer order habits  
-- Helps plan for production and marketing  
+- Helps plan for production and marketing
+- Shows Low Stock Ingredients
+- Discusses Business insights based off information (Butter and Salt Business Insights.pdf)
 
 ## 6. Tools Used
 - MySQL Workbench  
 - Mockaroo (for sample data)  
-- Canva (for charts)  
+- Excel (for charts)  
 
 ## 7. References
-Canva. (2025). Charts and Graph Creator. https://www.canva.com  
-MySQL Documentation. (2024). MySQL Reference Manual. https://dev.mysql.com/doc  
-Mockaroo. (2025). Random Data Generator. https://www.mockaroo.com  
-
+Canva. (2025). Poster template. https://www.canva.com
+Elmasri, R., & Navathe, S. B. (2016). Fundamentals of database systems (7th ed.). Pearson.
+Microsoft. (2024). Excel: Data visualization and charting tools. https://www.microsoft.com/microsoft-365/excel
+Mockaroo. (2025). Random data generator. https://www.mockaroo.com
+MySQL Documentation. (2024). MySQL reference manual. https://dev.mysql.com/doc
