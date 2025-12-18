@@ -6,9 +6,7 @@ The Butter & Salt Database Capstone Project is a real-world database system crea
 
 ## 2. What’s Included in This Project
 ### SQL Folder ### 
-
 🔗 [View SQL Folder](https://github.com/BreannaJordan/-From-Dough-to-Data-Building-the-Butter-Salt-Cookie-Database/tree/main/SQL)
-
 
  Contains all SQL scripts used to build and analyze the database.
 - Database creation scripts – Creates the Butter & Salt database environment.
@@ -17,11 +15,15 @@ The Butter & Salt Database Capstone Project is a real-world database system crea
 - Business insight queries – Analytical SQL queries that pull meaningful insights (e.g., sales trends, repeat customers, revenue patterns).
 
 ### CSV Folder
+🔗[View CSV Folder](https://github.com/BreannaJordan/-From-Dough-to-Data-Building-the-Butter-Salt-Cookie-Database/tree/main/CSV)
+
 Includes all mock data files used to populate the database:
 - CSV files for each table – Contains simulated data for customers, orders, cookies, ingredients, inventory, and other business entities.
 - These files allow the database to be populated quickly without manual entry.
 
 ### Images Folder
+🔗[View Images Folder](https://github.com/BreannaJordan/-From-Dough-to-Data-Building-the-Butter-Salt-Cookie-Database/tree/main/Images)
+
 Contains visual and presentation assets:
 - Project poster – High-level visual summary of the capstone project.
 - Schema diagram – Visual layout of tables and relationships.
@@ -29,6 +31,8 @@ Contains visual and presentation assets:
 - Data visualizations – Graphs and charts generated from SQL business insight queries (e.g., sales trends, customer patterns).
 
 ### Query Results Folder
+🔗[View Query Results Folder](https://github.com/BreannaJordan/-From-Dough-to-Data-Building-the-Butter-Salt-Cookie-Database/tree/main/Query%20Results)
+
 Stores output files created by running analytical queries:
 - Monthly sales revenue results
 - Repeat customer analysis
