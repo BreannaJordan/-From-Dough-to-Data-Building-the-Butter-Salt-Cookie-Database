@@ -5,7 +5,8 @@
 The Butter & Salt Database Capstone Project is a real-world database system created for my home-based cookie business, using fully anonymized and simulated data for privacy. Developed for the APCV 498 Senior Capstone course, this project demonstrates an end-to-end design of a functional relational database—from schema creation to data population to analytical SQL queries. Its purpose is to show how small businesses can use structured data to understand performance, track orders and customers, and make informed operational decisions. The primary audience for this project is my professor and classmates reviewing database design and implementation.
 
 ## 2. What’s Included in This Project
-### SQL Folder
+### SQL Folder 🔗 [View SQL Scripts](https://github.com/BreannaJordan/From-Dough-to-Data-Building-the-Butter-Salt-Cookie-Database/tree/main/SQL)
+
  Contains all SQL scripts used to build and analyze the database.
 - Database creation scripts – Creates the Butter & Salt database environment.
 - Table creation & normalization scripts – Defines all 3NF-normalized tables (customers, orders, cookies, ingredients, etc.).
