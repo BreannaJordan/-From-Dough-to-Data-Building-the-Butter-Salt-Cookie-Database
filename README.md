@@ -7,7 +7,7 @@ The Butter & Salt Database Capstone Project is a real-world database system crea
 ## 2. What’s Included in This Project
 ### SQL Folder ### 
 
-🔗 [View SQL Folder](https://github.com/BreannaJordan/From-Dough-to-Data-Building-the-Butter-Salt-Cookie-Database/tree/main/SQL)
+🔗 [View SQL Folder](https://github.com/BreannaJordan/-From-Dough-to-Data-Building-the-Butter-Salt-Cookie-Database/tree/main/SQL)
 
 
  Contains all SQL scripts used to build and analyze the database.
